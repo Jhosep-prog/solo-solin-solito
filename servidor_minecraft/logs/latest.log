@@ -1,53 +1,23 @@
-[19:17:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:17:13] [ServerMain/INFO]: Loaded 1290 recipes
-[19:17:14] [ServerMain/INFO]: Loaded 1399 advancements
-[19:17:15] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:17:15] [Server thread/INFO]: Loading properties
-[19:17:15] [Server thread/INFO]: Default game type: SURVIVAL
-[19:17:15] [Server thread/INFO]: Generating keypair
-[19:17:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:17:15] [Server thread/INFO]: Using epoll channel type
-[19:17:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:17:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:17:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:17:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:17:15] [Server thread/INFO]: Preparing level "world"
-[19:17:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[19:17:27] [Worker-Main-1/INFO]: Preparing spawn area: 71%
-[19:17:27] [Server thread/INFO]: Time elapsed: 2217 ms
-[19:17:27] [Server thread/INFO]: Done (11.561s)! For help, type "help"
-[19:19:04] [Server thread/INFO]: jheremy2509[/127.215.128.40:53871] logged in with entity id 13 at (227.1507914265045, 85.0, 853.5591746747295)
-[19:19:04] [Server thread/INFO]: jheremy2509 joined the game
-[19:23:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=172, y=97, z=905} jd{x=171, y=97, z=905}
-[19:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[19:42:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=184, y=64, z=1518} jd{x=184, y=62, z=1517}
-[19:50:32] [Server thread/INFO]: jheremy2509 has made the advancement [Diamonds!]
-[19:53:39] [Server thread/INFO]: [jheremy2509: Set own game mode to Spectator Mode]
-[19:54:45] [Server thread/WARN]: jheremy2509 moved too quickly! 10.66381684857214,0.0,1.47355782776458
-[19:56:21] [Server thread/INFO]: jheremy2509 has made the advancement [Minecraft: Trial(s) Edition]
-[19:57:39] [Server thread/INFO]: [jheremy2509: Set the time to 0]
-[19:57:44] [Server thread/INFO]: [jheremy2509: Set own game mode to Survival Mode]
-[19:58:48] [Server thread/INFO]: [jheremy2509: Successfully filled 780 block(s)]
-[20:06:03] [Server thread/INFO]: [jheremy2509: Gave 708 [Dirt] to jheremy2509]
-[20:07:04] [Server thread/INFO]: [jheremy2509: Successfully filled 659 block(s)]
-[20:07:46] [Server thread/INFO]: [jheremy2509: Gave 659 [Dirt] to jheremy2509]
-[20:08:39] [Server thread/INFO]: [jheremy2509: Successfully filled 1031 block(s)]
-[20:09:09] [Server thread/INFO]: jheremy2509 has made the advancement [Take Aim]
-[20:11:46] [Server thread/INFO]: [jheremy2509: Gave 1031 [Dirt] to jheremy2509]
-[20:12:42] [Server thread/INFO]: [jheremy2509: Successfully filled 229 block(s)]
-[20:13:13] [Server thread/INFO]: [jheremy2509: Gave 229 [Dirt] to jheremy2509]
-[20:14:14] [Server thread/INFO]: [jheremy2509: Successfully filled 1150 block(s)]
-[20:16:03] [Server thread/INFO]: [jheremy2509: Successfully filled 261 block(s)]
-[20:18:58] [Server thread/INFO]: [jheremy2509: Successfully filled 353 block(s)]
-[20:21:10] [Server thread/INFO]: [jheremy2509: Set the time to 0]
-[20:22:12] [Server thread/INFO]: [jheremy2509: Successfully filled 2136 block(s)]
-[20:23:27] [Server thread/INFO]: [jheremy2509: Successfully filled 4355 block(s)]
-[20:24:14] [Server thread/INFO]: [jheremy2509: Successfully filled 206 block(s)]
-[20:25:02] [Server thread/INFO]: [Not Secure] <jheremy2509> +
-[20:25:32] [Server thread/INFO]: [jheremy2509: Successfully filled 2230 block(s)]
-[20:26:11] [Server thread/INFO]: [jheremy2509: Successfully filled 37 block(s)]
-[20:26:37] [Server thread/INFO]: [jheremy2509: Successfully filled 88 block(s)]
+[01:30:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:30:37] [ServerMain/INFO]: Loaded 1290 recipes
+[01:30:38] [ServerMain/INFO]: Loaded 1399 advancements
+[01:30:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:30:39] [Server thread/INFO]: Loading properties
+[01:30:39] [Server thread/INFO]: Default game type: SURVIVAL
+[01:30:39] [Server thread/INFO]: Generating keypair
+[01:30:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:30:40] [Server thread/INFO]: Using epoll channel type
+[01:30:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:30:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:30:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:30:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:30:40] [Server thread/INFO]: Preparing level "world"
+[01:30:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:30:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:30:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:30:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:30:52] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[01:30:52] [Server thread/INFO]: Time elapsed: 1629 ms
+[01:30:52] [Server thread/INFO]: Done (11.768s)! For help, type "help"
+[01:32:54] [Server thread/INFO]: jheremy2509[/127.215.128.40:59107] logged in with entity id 13 at (-299.62139309080624, 63.0, 1690.7343309507507)
+[01:32:54] [Server thread/INFO]: jheremy2509 joined the game
