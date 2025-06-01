@@ -13,6 +13,7 @@
       "minecraft:dark_forest": "2025-05-21 04:23:14 +0000",
       "minecraft:forest": "2025-05-21 04:57:52 +0000",
       "minecraft:sparse_jungle": "2025-05-21 04:48:08 +0000",
+      "minecraft:deep_ocean": "2025-06-01 23:46:17 +0000",
       "minecraft:river": "2025-05-21 04:55:13 +0000",
       "minecraft:dripstone_caves": "2025-05-21 04:30:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-21 04:46:35 +0000",
@@ -2110,6 +2111,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-25 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-01 23:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-01 23:42:12 +0000"
     },
     "done": true
   },
