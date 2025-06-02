@@ -537,6 +537,7 @@
       "minecraft:skeleton": "2025-05-21 04:49:09 +0000",
       "minecraft:enderman": "2025-05-21 19:37:35 +0000",
       "minecraft:stray": "2025-05-25 19:22:06 +0000",
+      "minecraft:magma_cube": "2025-06-01 23:59:17 +0000",
       "minecraft:spider": "2025-05-25 19:08:25 +0000",
       "minecraft:wither_skeleton": "2025-05-25 19:33:27 +0000",
       "minecraft:zombie": "2025-05-21 04:39:32 +0000"
@@ -1798,7 +1799,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:basalt_deltas": "2025-05-25 19:27:22 +0000"
+      "minecraft:basalt_deltas": "2025-05-25 19:27:22 +0000",
+      "minecraft:warped_forest": "2025-06-02 00:08:15 +0000"
     },
     "done": false
   },
@@ -2114,9 +2116,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-02 00:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-06-01 23:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 00:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-02 00:09:09 +0000"
     },
     "done": true
   },

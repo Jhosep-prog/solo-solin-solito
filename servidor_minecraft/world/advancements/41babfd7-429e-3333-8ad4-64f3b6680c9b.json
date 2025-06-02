@@ -689,6 +689,7 @@
       "minecraft:skeleton": "2025-05-25 19:09:11 +0000",
       "minecraft:silverfish": "2025-05-25 19:21:11 +0000",
       "minecraft:stray": "2025-05-25 19:22:05 +0000",
+      "minecraft:enderman": "2025-06-02 00:07:14 +0000",
       "minecraft:magma_cube": "2025-06-01 23:46:10 +0000",
       "minecraft:spider": "2025-05-25 19:10:47 +0000",
       "minecraft:wither_skeleton": "2025-06-01 23:40:45 +0000",
@@ -1370,8 +1371,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-06-02 00:09:22 +0000",
       "minecraft:soul_sand_valley": "2025-06-01 23:38:33 +0000",
-      "minecraft:basalt_deltas": "2025-05-25 19:27:25 +0000"
+      "minecraft:basalt_deltas": "2025-05-25 19:27:25 +0000",
+      "minecraft:warped_forest": "2025-06-02 00:05:47 +0000"
     },
     "done": false
   },
@@ -1531,6 +1534,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-01 23:37:47 +0000"
@@ -1603,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 00:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-01 23:40:29 +0000"
@@ -1627,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 00:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-01 23:37:47 +0000"
@@ -1645,15 +1672,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-01 23:40:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-06-01 23:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-02 00:06:25 +0000"
     },
     "done": true
   },
