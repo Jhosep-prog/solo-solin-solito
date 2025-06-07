@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:flower_forest": "2025-06-07 14:38:09 +0000",
       "minecraft:dark_forest": "2025-06-07 14:20:31 +0000",
+      "minecraft:river": "2025-06-07 14:55:12 +0000",
       "minecraft:dripstone_caves": "2025-06-07 14:25:13 +0000"
     },
     "done": false
@@ -59,6 +60,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:piglin": "2025-06-07 14:21:35 +0000",
+      "minecraft:enderman": "2025-06-07 14:48:25 +0000",
       "minecraft:piglin_brute": "2025-06-07 14:21:37 +0000"
     },
     "done": false
@@ -399,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-07 15:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 14:39:05 +0000"
@@ -435,9 +443,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-07 15:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-07 15:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-07 14:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-07 14:55:52 +0000"
     },
     "done": true
   },
@@ -471,6 +497,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-07 15:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-07 15:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 14:39:05 +0000"
@@ -489,9 +527,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-07 15:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 14:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-07 15:01:24 +0000"
     },
     "done": true
   },
@@ -519,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-07 14:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-07 14:39:20 +0000"
@@ -528,6 +584,24 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-06-07 14:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-07 15:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-07 15:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-07 14:55:52 +0000"
     },
     "done": true
   },
@@ -564,6 +638,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-07 14:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-07 15:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-07 15:01:55 +0000"
     },
     "done": true
   },
@@ -651,6 +737,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-07 15:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-06-07 14:55:35 +0000",
+      "chicken": "2025-06-07 15:05:26 +0000",
+      "cooked_mutton": "2025-06-07 15:05:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-07 14:39:20 +0000"
@@ -660,6 +760,18 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-07 14:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-07 14:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-07 15:01:55 +0000"
     },
     "done": true
   },
